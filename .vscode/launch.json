@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run Courier System (Desktop GUI + Localhost)",
+            "request": "launch",
+            "mainClass": "com.couriertracking.Main",
+            "projectName": "courier-tracking-system"
+        },
+        {
+            "type": "java",
+            "name": "Run Localhost Web Server (http://localhost:8080)",
+            "request": "launch",
+            "mainClass": "com.couriertracking.service.LocalhostHttpServer",
+            "projectName": "courier-tracking-system"
+        }
+    ]
+}
