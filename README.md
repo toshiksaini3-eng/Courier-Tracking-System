@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚚 Courier Tracking System (Logistics Management Desktop Application)
 
 [![Java](https://img.shields.io/badge/Java-17%20%7C%2021%20%7C%2026-blue?logo=openjdk)](https://www.oracle.com/java/)
@@ -255,3 +256,7 @@ Courier System/
 - **Database Engine**: MySQL 8 (InnoDB, UTF-8, PreparedStatement parameterized JDBC)
 - **Concurrency**: `ScheduledExecutorService`, background daemon thread pool, `SwingUtilities.invokeLater()`
 - **College Demonstration**: Maximized window on launch, responsive layout, real-time validations, printable receipts, and CSV exports.
+=======
+# Courier-Tracking-System
+A Java-based Courier Tracking System that allows users to book parcels, generate unique consignment numbers, update shipment statuses, track parcels, and generate delivery reports.
+>>>>>>> 91d929e739d8489d6a060573350e0f00339e17dd
